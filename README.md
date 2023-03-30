@@ -1,2 +1,3 @@
 # NutriMath
-Projeto Pratica de extensão da UNIFIL. Calculadora Nutricional 
+Projeto Pratica de extensão da UNIFIL. 
+Calculadora Nutricional 

@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#cabecalho {
+    width: 100%;
+    /* border: 1px solid red; */
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 30px;
+    background-color: rgb(66, 185, 120);
+    color: white;
+}
+
+#container {
+    margin: auto;
+    /* border: 1px solid red; */
+    width: 1210px;
+    height: 600px;
+}
+
+#econtainer {
+    border: 3px solid rgb(66, 185, 120);
+    border-right: 1.5px solid rgb(66, 185, 120);
+    float: left;
+    width: 600px;
+    height: 100%;
+}
+
+#econtainer h3 {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+
+#econtainer h4 {
+    padding: 10px;
+}
+
+#inserc {
+    /* border: 1px red solid; */
+    display: inline-block;
+    margin: 10px;
+}
+
+#inserc input {
+    width: 50px;
+}
+
+#botaocnf button {
+    margin-left: 10px;
+    width: 90px;
+    height: 25px;
+    background-color: rgb(66, 185, 120);
+    border-radius: 5px;
+    border: 0;
+}
+
+#botaocnf button:hover {
+    margin-left: 10px;
+    width: 90px;
+    height: 25px;
+    background-color: rgb(41, 146, 89);
+    border-radius: 5px;
+    border: 0;
+}
+
+#botaocnf button:active {
+    margin-left: 10px;
+    width: 90px;
+    height: 25px;
+    background-color: rgb(66, 185, 120);
+    border-radius: 5px;
+    border: 0;
+}
+
+#dcontainer {
+    border: 3px solid rgb(66, 185, 120);
+    border-left: 1.5px solid rgb(66, 185, 120);
+    float: left;
+    width: 600px;
+    height: 100%;
+}
+
+#dcontainer h3 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+
+#tabela-resultados{
+    margin: auto;
+}
+
+table, th, td{
+    border: 1px solid;
+}
